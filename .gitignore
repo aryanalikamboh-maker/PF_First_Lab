@@ -1,0 +1,8 @@
+# Ignore Git internal folder (normally already ignored)
+.git/
+
+# Ignore output folder
+output/
+
+# Ignore all exe files
+*.exe

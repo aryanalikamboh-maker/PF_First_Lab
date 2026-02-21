@@ -1,0 +1,4 @@
+run cmd;
+cd C:\Users\Administrator\Desktop\aryan            directory(folder) path
+g++ -o program pattern_printing.cpp
+g++ -o program pattern_printing.cpp&program.exe
