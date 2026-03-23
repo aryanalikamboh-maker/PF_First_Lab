@@ -1,0 +1,86 @@
+1️⃣ Core Workload Objects (Deep Understanding)
+
+Pods (lifecycle, restart policy)
+
+Deployments
+
+Rolling updates
+
+Rolling back
+
+Scaling
+
+ReplicaSets (how Deployment controls them)
+
+👉 You must understand how Kubernetes self-heals.
+
+2️⃣ Services (Networking Core)
+
+ClusterIP
+
+NodePort
+
+LoadBalancer
+
+Service selectors
+
+How traffic reaches pod
+
+If you don’t master Services → you’re not production ready.
+
+3️⃣ Ingress (Production Must)
+
+Ingress resource
+
+Ingress controller
+
+Path-based routing
+
+Domain-based routing
+
+TLS (basic understanding)
+
+Production apps use Ingress. Always.
+
+4️⃣ Configuration Management
+
+ConfigMaps
+
+Secrets
+
+Injecting env variables
+
+Mounting as files
+
+If you skip this → you’re not enterprise ready.
+
+5️⃣ Storage (Very Important)
+
+Volumes
+
+PersistentVolume (PV)
+
+PersistentVolumeClaim (PVC)
+
+StorageClass (basic idea)
+
+Understand:
+Stateless vs Stateful applications.
+
+6️⃣ Namespaces + Resource Management
+
+Namespaces
+
+Resource limits
+
+CPU / Memory requests & limits
+
+Companies care about this.
+
+7️⃣ Health & Reliability (Very Important)
+
+Liveness probe
+
+Readiness probe
+
+Interview favorite topic.
